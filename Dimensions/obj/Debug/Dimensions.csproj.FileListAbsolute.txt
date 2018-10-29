@@ -1,0 +1,7 @@
+D:\Dimn\Dimensions\Dimensions\Dimensions\obj\Debug\Dimensions.csprojResolveAssemblyReference.cache
+D:\Dimn\Dimensions\Dimensions\Dimensions\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\Dimn\Dimensions\Dimensions\Dimensions\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\Dimn\Dimensions\Dimensions\Dimensions\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\Dimn\Dimensions\Dimensions\Dimensions\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\Dimn\Dimensions\Dimensions\Dimensions\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\Dimn\Dimensions\Dimensions\Dimensions\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\10\jl\classes.jar</Jar>
+    <Jar>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\11\jl\classes.jar</Jar>
+    <Jar>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\12\jl\classes.jar</Jar>
+    <Jar>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\7\jl\classes.jar</Jar>
+    <Jar>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\8\jl\classes.jar</Jar>
+    <Jar>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\9\jl\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\1\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\2\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\3\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\4\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\5\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\1\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\2\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\3\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\4\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\5\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\testgit\FragementPackageSample\Dimensions\obj\Debug\lp\5.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
